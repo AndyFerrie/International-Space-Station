@@ -25,7 +25,7 @@ This is a tutorial project from The Coding Train focused on working with data an
 
 ### Links
 
-- Live Site URL: [Cheat Sheet](https://andyferrie.github.io/Cheat-Sheet/)
+- Live Site URL: [International Space Station](https://andyferrie.github.io/International-Space-Station/)
 
 ## My process
 
@@ -42,7 +42,7 @@ I intend to complete the rest of The Coding Train content in this series as I ha
 - [The Coding Train YouTube Channel](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) - I discovered Daniel Shiffman very early on in my learning journey as I first started learning about JavaScript through creative coding and p5.js, I love his enthusiasm and very fast pace.  
 - [Where The ISS at?](https://wheretheiss.at/) - Here you can find the ISS data.
 - [Leaflet](https://leafletjs.com/) - An open-source JavaScript library for interactive street maps. 
-- [OpenSteetMap](https://www.openstreetmap.org) - An open-source map of the world 
+- [OpenSteetMap](https://www.openstreetmap.org) - An open-source map of the world.
 
 ## Acknowledgments
 

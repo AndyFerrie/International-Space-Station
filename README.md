@@ -1,4 +1,4 @@
-# The Coding Train Project: International Space Station Location
+# The Coding Train Project: International Space Station
 
 ## Table of contents
 
@@ -16,7 +16,7 @@
 
 ### The challenge
 
-This is a tutorial project from The Coding Train focused on working with data and APIs in JavaScript. It fetches JSON data from the Where The ISS at? website and uses the realtime Longitude and Latitude coordinates to plot the Space Station's location on a map. The map is displayed via the Leaflet JavaScript library and uses tiles from the OpenStreetMap project. The data is refreshed once a second using setInterval().
+This is a tutorial project from The Coding Train focused on working with data and APIs in JavaScript. It fetches JSON data from the 'Where the ISS at?' website and uses the realtime Longitude and Latitude coordinates to plot the Space Station's location on a map. The map is displayed via the Leaflet JavaScript library and uses tiles from the OpenStreetMap project. The data is refreshed once a second using setInterval().
 
 
 ### Screenshot
@@ -40,7 +40,7 @@ I intend to complete the rest of The Coding Train content in this series as I ha
 ### Useful resources
 
 - [The Coding Train YouTube Channel](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) - I discovered Daniel Shiffman very early on in my learning journey as I first started learning about JavaScript through creative coding and p5.js, I love his enthusiasm and very fast pace.  
-- [Where The ISS at?](hhttps://wheretheiss.at/) - Here you can find the ISS data.
+- [Where The ISS at?](https://wheretheiss.at/) - Here you can find the ISS data.
 - [Leaflet](https://leafletjs.com/) - An open-source JavaScript library for interactive street maps. 
 - [OpenSteetMap](https://www.openstreetmap.org) - An open-source map of the world 
 
